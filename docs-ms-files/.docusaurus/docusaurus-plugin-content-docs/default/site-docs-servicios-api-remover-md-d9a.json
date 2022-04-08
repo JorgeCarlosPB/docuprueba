@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Servicios API/Remover",
+  "id": "Servicios API/Remover",
+  "title": "Eliminar (/v1/delete)",
+  "description": "Este servicio permite remover, borra, o eliminar algún archivo en el servidor enviando la ruta del archivo.",
+  "source": "@site/docs/Servicios API/Remover.md",
+  "sourceDirName": "Servicios API",
+  "slug": "/Servicios API/Remover",
+  "permalink": "/docs/Servicios API/Remover",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Remover.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lectura (/v1/read)",
+    "permalink": "/docs/Servicios API/Lectura"
+  },
+  "next": {
+    "title": "Verificar si existe (/v1/verify/exists/file)",
+    "permalink": "/docs/Servicios API/Existencia"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Introducción/SProblematica",
+  "id": "Introducción/SProblematica",
+  "title": "Situación Problemática",
+  "description": "Las aplicaciones que maneja el ministerio público están desarrollados en distintos lenguajes de programación, y estos manejan su propio gestión de de archivos, debido a esto cada apps actualmente  se conectan de forma independiente  a los servidores nas generando un tráfico de archivos por aplicación.",
+  "source": "@site/docs\\Introducción\\SProblematica.md",
+  "sourceDirName": "Introducción",
+  "slug": "/Introducción/SProblematica",
+  "permalink": "/docs/Introducción/SProblematica",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introducción/SProblematica.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Antecedentes",
+    "permalink": "/docs/Introducción/Antecedentes"
+  },
+  "next": {
+    "title": "Objetivos",
+    "permalink": "/docs/Introducción/Objetivos"
+  }
+}

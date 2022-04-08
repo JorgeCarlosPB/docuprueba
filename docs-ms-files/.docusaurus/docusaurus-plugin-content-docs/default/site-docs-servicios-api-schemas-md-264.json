@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Servicios API/Schemas",
+  "id": "Servicios API/Schemas",
+  "title": "Schemas (Tipos de datos)",
+  "description": "Antes de continuar viendo los servicios es necesario ver los esquemas que se necesitan para los difentes servicios junto con los tipos de datos necesarios para ejecutarlos",
+  "source": "@site/docs/Servicios API/Schemas.md",
+  "sourceDirName": "Servicios API",
+  "slug": "/Servicios API/Schemas",
+  "permalink": "/docs/Servicios API/Schemas",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Schemas.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reemplazar (/v1/replace/file/base64)",
+    "permalink": "/docs/Servicios API/Reemplazar"
+  },
+  "next": {
+    "title": "Manual Swagger",
+    "permalink": "/docs/Manual swagger"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Configuración e instalación/Definición del entorno",
+              "path": "/docs/Configuración e instalación/Definición del entorno",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Configuración e instalación/Ejecución",
+              "path": "/docs/Configuración e instalación/Ejecución",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Configuración e instalación/Instalación",
+              "path": "/docs/Configuración e instalación/Instalación",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Configuración e instalación/pruebas",
+              "path": "/docs/Configuración e instalación/pruebas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Configuración e instalación/Requisitos",
+              "path": "/docs/Configuración e instalación/Requisitos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Manual swagger",
+              "path": "/docs/Manual swagger",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Notas_lanzamiento",
+              "path": "/docs/Notas_lanzamiento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Servicios API/Escritura",
+              "path": "/docs/Servicios API/Escritura",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Servicios API/Existencia",
+              "path": "/docs/Servicios API/Existencia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Servicios API/Lectura",
+              "path": "/docs/Servicios API/Lectura",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Servicios API/Reemplazar",
+              "path": "/docs/Servicios API/Reemplazar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Servicios API/Remover",
+              "path": "/docs/Servicios API/Remover",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Servicios API/Reubicar",
+              "path": "/docs/Servicios API/Reubicar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Servicios API/Schemas",
+              "path": "/docs/Servicios API/Schemas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Servicios API/verificar servicio",
+              "path": "/docs/Servicios API/verificar servicio",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

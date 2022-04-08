@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Servicios API/Reubicar",
+  "id": "Servicios API/Reubicar",
+  "title": "Reubicar (/v1/relocate/file)",
+  "description": "Este servicio permite mover la ubicación de un archivo utilizando el id del archivo o su nombre de ruta.",
+  "source": "@site/docs/Servicios API/Reubicar.md",
+  "sourceDirName": "Servicios API",
+  "slug": "/Servicios API/Reubicar",
+  "permalink": "/docs/Servicios API/Reubicar",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Reubicar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Verificar si existe (/v1/verify/exists/file)",
+    "permalink": "/docs/Servicios API/Existencia"
+  },
+  "next": {
+    "title": "Reemplazar (/v1/replace/file/base64)",
+    "permalink": "/docs/Servicios API/Reemplazar"
+  }
+}

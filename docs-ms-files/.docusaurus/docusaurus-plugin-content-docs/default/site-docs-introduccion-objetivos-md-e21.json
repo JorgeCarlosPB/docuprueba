@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Introducción/Objetivos",
+  "id": "Introducción/Objetivos",
+  "title": "Objetivos",
+  "description": "Objetivo general",
+  "source": "@site/docs\\Introducción\\Objetivos.md",
+  "sourceDirName": "Introducción",
+  "slug": "/Introducción/Objetivos",
+  "permalink": "/docs/Introducción/Objetivos",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introducción/Objetivos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Situación Problemática",
+    "permalink": "/docs/Introducción/SProblematica"
+  },
+  "next": {
+    "title": "Notas de lanzamiento",
+    "permalink": "/docs/Notas_lanzamiento"
+  }
+}

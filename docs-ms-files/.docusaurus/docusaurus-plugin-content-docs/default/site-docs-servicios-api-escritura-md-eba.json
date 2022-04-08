@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Servicios API/Escritura",
+  "id": "Servicios API/Escritura",
+  "title": "Escritura (/v1/write)",
+  "description": "Este servicio permite recibir y generar archivos en el servidor a partir de base64, es decir que se usa para subir archivos y guardarlos en el servidor.",
+  "source": "@site/docs/Servicios API/Escritura.md",
+  "sourceDirName": "Servicios API",
+  "slug": "/Servicios API/Escritura",
+  "permalink": "/docs/Servicios API/Escritura",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Escritura.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Verificar servicio (GET/)",
+    "permalink": "/docs/Servicios API/verificar servicio"
+  },
+  "next": {
+    "title": "Lectura (/v1/read)",
+    "permalink": "/docs/Servicios API/Lectura"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Servicios API/Lectura",
+  "id": "Servicios API/Lectura",
+  "title": "Lectura (/v1/read)",
+  "description": "Este servicio se usa para leer archivos que están dentro del servidor, como resultado tenemos base64",
+  "source": "@site/docs/Servicios API/Lectura.md",
+  "sourceDirName": "Servicios API",
+  "slug": "/Servicios API/Lectura",
+  "permalink": "/docs/Servicios API/Lectura",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Lectura.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Escritura (/v1/write)",
+    "permalink": "/docs/Servicios API/Escritura"
+  },
+  "next": {
+    "title": "Eliminar (/v1/delete)",
+    "permalink": "/docs/Servicios API/Remover"
+  }
+}

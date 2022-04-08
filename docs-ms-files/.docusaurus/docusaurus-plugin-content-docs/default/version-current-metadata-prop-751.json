@@ -1,0 +1,223 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introducción",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Configuración e instalación",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Prerrequisitos",
+            "href": "/docs/Configuración e instalación/Requisitos",
+            "docId": "Configuración e instalación/Requisitos"
+          },
+          {
+            "type": "link",
+            "label": "Instalación",
+            "href": "/docs/Configuración e instalación/Instalación",
+            "docId": "Configuración e instalación/Instalación"
+          },
+          {
+            "type": "link",
+            "label": "Definición del entorno",
+            "href": "/docs/Configuración e instalación/Definición del entorno",
+            "docId": "Configuración e instalación/Definición del entorno"
+          },
+          {
+            "type": "link",
+            "label": "Ejecución de la aplicación",
+            "href": "/docs/Configuración e instalación/Ejecución",
+            "docId": "Configuración e instalación/Ejecución"
+          },
+          {
+            "type": "link",
+            "label": "Pruebas",
+            "href": "/docs/Configuración e instalación/pruebas",
+            "docId": "Configuración e instalación/pruebas"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Servicios API",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Verificar servicio (GET/)",
+            "href": "/docs/Servicios API/verificar servicio",
+            "docId": "Servicios API/verificar servicio"
+          },
+          {
+            "type": "link",
+            "label": "Escritura (/v1/write)",
+            "href": "/docs/Servicios API/Escritura",
+            "docId": "Servicios API/Escritura"
+          },
+          {
+            "type": "link",
+            "label": "Lectura (/v1/read)",
+            "href": "/docs/Servicios API/Lectura",
+            "docId": "Servicios API/Lectura"
+          },
+          {
+            "type": "link",
+            "label": "Eliminar (/v1/delete)",
+            "href": "/docs/Servicios API/Remover",
+            "docId": "Servicios API/Remover"
+          },
+          {
+            "type": "link",
+            "label": "Verificar si existe (/v1/verify/exists/file)",
+            "href": "/docs/Servicios API/Existencia",
+            "docId": "Servicios API/Existencia"
+          },
+          {
+            "type": "link",
+            "label": "Reubicar (/v1/relocate/file)",
+            "href": "/docs/Servicios API/Reubicar",
+            "docId": "Servicios API/Reubicar"
+          },
+          {
+            "type": "link",
+            "label": "Reemplazar (/v1/replace/file/base64)",
+            "href": "/docs/Servicios API/Reemplazar",
+            "docId": "Servicios API/Reemplazar"
+          },
+          {
+            "type": "link",
+            "label": "Schemas (Tipos de datos)",
+            "href": "/docs/Servicios API/Schemas",
+            "docId": "Servicios API/Schemas"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Manual Swagger",
+        "href": "/docs/Manual swagger",
+        "docId": "Manual swagger"
+      },
+      {
+        "type": "link",
+        "label": "Notas de lanzamiento",
+        "href": "/docs/Notas_lanzamiento",
+        "docId": "Notas_lanzamiento"
+      }
+    ]
+  },
+  "docs": {
+    "Configuración e instalación/Definición del entorno": {
+      "id": "Configuración e instalación/Definición del entorno",
+      "title": "Definición del entorno",
+      "description": "- Sin la correcta configuración del entorno, la aplicación no podrá ejecutarse",
+      "sidebar": "tutorialSidebar"
+    },
+    "Configuración e instalación/Ejecución": {
+      "id": "Configuración e instalación/Ejecución",
+      "title": "Ejecución de la aplicación",
+      "description": "Para ejecutar la aplicación es necesario que los servidores de mongoDB se encuentren ejecutándose",
+      "sidebar": "tutorialSidebar"
+    },
+    "Configuración e instalación/Instalación": {
+      "id": "Configuración e instalación/Instalación",
+      "title": "Instalación",
+      "description": "Clonación del repositorio",
+      "sidebar": "tutorialSidebar"
+    },
+    "Configuración e instalación/pruebas": {
+      "id": "Configuración e instalación/pruebas",
+      "title": "Pruebas",
+      "description": "Se pueden realizar algunas pruebas o tests:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Configuración e instalación/Requisitos": {
+      "id": "Configuración e instalación/Requisitos",
+      "title": "Prerrequisitos",
+      "description": "Antes de instalar el sistema MS-Files es necesario tener instaladas algunas herramientas:",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introducción",
+      "description": "Antecedentes",
+      "sidebar": "tutorialSidebar"
+    },
+    "Manual swagger": {
+      "id": "Manual swagger",
+      "title": "Manual Swagger",
+      "description": "Swagger es un conjunto de herramientas de software de código abierto para diseñar, construir, documentar, y utilizar servicios web RESTful.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Notas_lanzamiento": {
+      "id": "Notas_lanzamiento",
+      "title": "Notas de lanzamiento",
+      "description": "Version 1.0.0:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Servicios API/Escritura": {
+      "id": "Servicios API/Escritura",
+      "title": "Escritura (/v1/write)",
+      "description": "Este servicio permite recibir y generar archivos en el servidor a partir de base64, es decir que se usa para subir archivos y guardarlos en el servidor.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Servicios API/Existencia": {
+      "id": "Servicios API/Existencia",
+      "title": "Verificar si existe (/v1/verify/exists/file)",
+      "description": "Este servicio nos permite verificar si existe algún archivo en una localización dentro el servidor indicando la ruta junto con nombre del mismo.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Servicios API/Lectura": {
+      "id": "Servicios API/Lectura",
+      "title": "Lectura (/v1/read)",
+      "description": "Este servicio se usa para leer archivos que están dentro del servidor, como resultado tenemos base64",
+      "sidebar": "tutorialSidebar"
+    },
+    "Servicios API/Reemplazar": {
+      "id": "Servicios API/Reemplazar",
+      "title": "Reemplazar (/v1/replace/file/base64)",
+      "description": "Este servicio permite reemplazar unarchivo y actualizar su registro por otro nuevo base64 y retorna los nuevos datos de la db.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Servicios API/Remover": {
+      "id": "Servicios API/Remover",
+      "title": "Eliminar (/v1/delete)",
+      "description": "Este servicio permite remover, borra, o eliminar algún archivo en el servidor enviando la ruta del archivo.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Servicios API/Reubicar": {
+      "id": "Servicios API/Reubicar",
+      "title": "Reubicar (/v1/relocate/file)",
+      "description": "Este servicio permite mover la ubicación de un archivo utilizando el id del archivo o su nombre de ruta.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Servicios API/Schemas": {
+      "id": "Servicios API/Schemas",
+      "title": "Schemas (Tipos de datos)",
+      "description": "Antes de continuar viendo los servicios es necesario ver los esquemas que se necesitan para los difentes servicios junto con los tipos de datos necesarios para ejecutarlos",
+      "sidebar": "tutorialSidebar"
+    },
+    "Servicios API/verificar servicio": {
+      "id": "Servicios API/verificar servicio",
+      "title": "Verificar servicio (GET/)",
+      "description": "Este servicio viene por defecto con la aplicación por lo tanto no es necesario añadir parámetros.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

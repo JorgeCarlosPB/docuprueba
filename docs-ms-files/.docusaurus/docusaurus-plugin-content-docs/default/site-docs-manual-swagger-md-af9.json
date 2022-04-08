@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Manual swagger",
+  "id": "Manual swagger",
+  "title": "Manual Swagger",
+  "description": "Swagger es un conjunto de herramientas de software de código abierto para diseñar, construir, documentar, y utilizar servicios web RESTful.",
+  "source": "@site/docs/Manual swagger.md",
+  "sourceDirName": ".",
+  "slug": "/Manual swagger",
+  "permalink": "/docs/Manual swagger",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Manual swagger.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Schemas (Tipos de datos)",
+    "permalink": "/docs/Servicios API/Schemas"
+  },
+  "next": {
+    "title": "Notas de lanzamiento",
+    "permalink": "/docs/Notas_lanzamiento"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Configuración e instalación/Ejecución y prueba",
+  "id": "Configuración e instalación/Ejecución y prueba",
+  "title": "Ejecución y prueba",
+  "description": "Ejecución de la aplicación",
+  "source": "@site/docs\\Configuración e instalación\\Ejecución y prueba.md",
+  "sourceDirName": "Configuración e instalación",
+  "slug": "/Configuración e instalación/Ejecución y prueba",
+  "permalink": "/docs/Configuración e instalación/Ejecución y prueba",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Configuración e instalación/Ejecución y prueba.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Definición del entorno",
+    "permalink": "/docs/Configuración e instalación/Definición del entorno"
+  },
+  "next": {
+    "title": "pruebas",
+    "permalink": "/docs/Configuración e instalación/pruebas"
+  }
+}

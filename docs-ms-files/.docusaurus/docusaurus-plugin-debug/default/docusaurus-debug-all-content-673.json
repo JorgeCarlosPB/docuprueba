@@ -1,0 +1,895 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\9no SEMESTRE\\SHC 170 Práctica laboral\\docuprueba\\docs-ms-files\\sidebars.js",
+          "contentPath": "D:\\9no SEMESTRE\\SHC 170 Práctica laboral\\docuprueba\\docs-ms-files\\docs",
+          "contentPathLocalized": "D:\\9no SEMESTRE\\SHC 170 Práctica laboral\\docuprueba\\docs-ms-files\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "Configuración e instalación/Definición del entorno",
+              "id": "Configuración e instalación/Definición del entorno",
+              "title": "Definición del entorno",
+              "description": "- Sin la correcta configuración del entorno, la aplicación no podrá ejecutarse",
+              "source": "@site/docs\\Configuración e instalación\\Definición del entorno.md",
+              "sourceDirName": "Configuración e instalación",
+              "slug": "/Configuración e instalación/Definición del entorno",
+              "permalink": "/docs/Configuración e instalación/Definición del entorno",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Configuración e instalación/Definición del entorno.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Instalación",
+                "permalink": "/docs/Configuración e instalación/Instalación"
+              },
+              "next": {
+                "title": "Ejecución de la aplicación",
+                "permalink": "/docs/Configuración e instalación/Ejecución"
+              }
+            },
+            {
+              "unversionedId": "Configuración e instalación/Ejecución",
+              "id": "Configuración e instalación/Ejecución",
+              "title": "Ejecución de la aplicación",
+              "description": "Para ejecutar la aplicación es necesario que los servidores de mongoDB se encuentren ejecutándose",
+              "source": "@site/docs\\Configuración e instalación\\Ejecución.md",
+              "sourceDirName": "Configuración e instalación",
+              "slug": "/Configuración e instalación/Ejecución",
+              "permalink": "/docs/Configuración e instalación/Ejecución",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Configuración e instalación/Ejecución.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Definición del entorno",
+                "permalink": "/docs/Configuración e instalación/Definición del entorno"
+              },
+              "next": {
+                "title": "Pruebas",
+                "permalink": "/docs/Configuración e instalación/pruebas"
+              }
+            },
+            {
+              "unversionedId": "Configuración e instalación/Instalación",
+              "id": "Configuración e instalación/Instalación",
+              "title": "Instalación",
+              "description": "Clonación del repositorio",
+              "source": "@site/docs\\Configuración e instalación\\Instalación.md",
+              "sourceDirName": "Configuración e instalación",
+              "slug": "/Configuración e instalación/Instalación",
+              "permalink": "/docs/Configuración e instalación/Instalación",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Configuración e instalación/Instalación.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Prerrequisitos",
+                "permalink": "/docs/Configuración e instalación/Requisitos"
+              },
+              "next": {
+                "title": "Definición del entorno",
+                "permalink": "/docs/Configuración e instalación/Definición del entorno"
+              }
+            },
+            {
+              "unversionedId": "Configuración e instalación/pruebas",
+              "id": "Configuración e instalación/pruebas",
+              "title": "Pruebas",
+              "description": "Se pueden realizar algunas pruebas o tests:",
+              "source": "@site/docs\\Configuración e instalación\\pruebas.md",
+              "sourceDirName": "Configuración e instalación",
+              "slug": "/Configuración e instalación/pruebas",
+              "permalink": "/docs/Configuración e instalación/pruebas",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Configuración e instalación/pruebas.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ejecución de la aplicación",
+                "permalink": "/docs/Configuración e instalación/Ejecución"
+              },
+              "next": {
+                "title": "Verificar servicio (GET/)",
+                "permalink": "/docs/Servicios API/verificar servicio"
+              }
+            },
+            {
+              "unversionedId": "Configuración e instalación/Requisitos",
+              "id": "Configuración e instalación/Requisitos",
+              "title": "Prerrequisitos",
+              "description": "Antes de instalar el sistema MS-Files es necesario tener instaladas algunas herramientas:",
+              "source": "@site/docs\\Configuración e instalación\\Requisitos.md",
+              "sourceDirName": "Configuración e instalación",
+              "slug": "/Configuración e instalación/Requisitos",
+              "permalink": "/docs/Configuración e instalación/Requisitos",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Configuración e instalación/Requisitos.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introducción",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Instalación",
+                "permalink": "/docs/Configuración e instalación/Instalación"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introducción",
+              "description": "Antecedentes",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Prerrequisitos",
+                "permalink": "/docs/Configuración e instalación/Requisitos"
+              }
+            },
+            {
+              "unversionedId": "Manual swagger",
+              "id": "Manual swagger",
+              "title": "Manual Swagger",
+              "description": "Swagger es un conjunto de herramientas de software de código abierto para diseñar, construir, documentar, y utilizar servicios web RESTful.",
+              "source": "@site/docs/Manual swagger.md",
+              "sourceDirName": ".",
+              "slug": "/Manual swagger",
+              "permalink": "/docs/Manual swagger",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Manual swagger.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Schemas (Tipos de datos)",
+                "permalink": "/docs/Servicios API/Schemas"
+              },
+              "next": {
+                "title": "Notas de lanzamiento",
+                "permalink": "/docs/Notas_lanzamiento"
+              }
+            },
+            {
+              "unversionedId": "Notas_lanzamiento",
+              "id": "Notas_lanzamiento",
+              "title": "Notas de lanzamiento",
+              "description": "Version 1.0.0:",
+              "source": "@site/docs/Notas_lanzamiento.md",
+              "sourceDirName": ".",
+              "slug": "/Notas_lanzamiento",
+              "permalink": "/docs/Notas_lanzamiento",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Notas_lanzamiento.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual Swagger",
+                "permalink": "/docs/Manual swagger"
+              }
+            },
+            {
+              "unversionedId": "Servicios API/Escritura",
+              "id": "Servicios API/Escritura",
+              "title": "Escritura (/v1/write)",
+              "description": "Este servicio permite recibir y generar archivos en el servidor a partir de base64, es decir que se usa para subir archivos y guardarlos en el servidor.",
+              "source": "@site/docs/Servicios API/Escritura.md",
+              "sourceDirName": "Servicios API",
+              "slug": "/Servicios API/Escritura",
+              "permalink": "/docs/Servicios API/Escritura",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Escritura.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Verificar servicio (GET/)",
+                "permalink": "/docs/Servicios API/verificar servicio"
+              },
+              "next": {
+                "title": "Lectura (/v1/read)",
+                "permalink": "/docs/Servicios API/Lectura"
+              }
+            },
+            {
+              "unversionedId": "Servicios API/Existencia",
+              "id": "Servicios API/Existencia",
+              "title": "Verificar si existe (/v1/verify/exists/file)",
+              "description": "Este servicio nos permite verificar si existe algún archivo en una localización dentro el servidor indicando la ruta junto con nombre del mismo.",
+              "source": "@site/docs/Servicios API/Existencia.md",
+              "sourceDirName": "Servicios API",
+              "slug": "/Servicios API/Existencia",
+              "permalink": "/docs/Servicios API/Existencia",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Existencia.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Eliminar (/v1/delete)",
+                "permalink": "/docs/Servicios API/Remover"
+              },
+              "next": {
+                "title": "Reubicar (/v1/relocate/file)",
+                "permalink": "/docs/Servicios API/Reubicar"
+              }
+            },
+            {
+              "unversionedId": "Servicios API/Lectura",
+              "id": "Servicios API/Lectura",
+              "title": "Lectura (/v1/read)",
+              "description": "Este servicio se usa para leer archivos que están dentro del servidor, como resultado tenemos base64",
+              "source": "@site/docs/Servicios API/Lectura.md",
+              "sourceDirName": "Servicios API",
+              "slug": "/Servicios API/Lectura",
+              "permalink": "/docs/Servicios API/Lectura",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Lectura.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Escritura (/v1/write)",
+                "permalink": "/docs/Servicios API/Escritura"
+              },
+              "next": {
+                "title": "Eliminar (/v1/delete)",
+                "permalink": "/docs/Servicios API/Remover"
+              }
+            },
+            {
+              "unversionedId": "Servicios API/Reemplazar",
+              "id": "Servicios API/Reemplazar",
+              "title": "Reemplazar (/v1/replace/file/base64)",
+              "description": "Este servicio permite reemplazar unarchivo y actualizar su registro por otro nuevo base64 y retorna los nuevos datos de la db.",
+              "source": "@site/docs/Servicios API/Reemplazar.md",
+              "sourceDirName": "Servicios API",
+              "slug": "/Servicios API/Reemplazar",
+              "permalink": "/docs/Servicios API/Reemplazar",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Reemplazar.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Reubicar (/v1/relocate/file)",
+                "permalink": "/docs/Servicios API/Reubicar"
+              },
+              "next": {
+                "title": "Schemas (Tipos de datos)",
+                "permalink": "/docs/Servicios API/Schemas"
+              }
+            },
+            {
+              "unversionedId": "Servicios API/Remover",
+              "id": "Servicios API/Remover",
+              "title": "Eliminar (/v1/delete)",
+              "description": "Este servicio permite remover, borra, o eliminar algún archivo en el servidor enviando la ruta del archivo.",
+              "source": "@site/docs/Servicios API/Remover.md",
+              "sourceDirName": "Servicios API",
+              "slug": "/Servicios API/Remover",
+              "permalink": "/docs/Servicios API/Remover",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Remover.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lectura (/v1/read)",
+                "permalink": "/docs/Servicios API/Lectura"
+              },
+              "next": {
+                "title": "Verificar si existe (/v1/verify/exists/file)",
+                "permalink": "/docs/Servicios API/Existencia"
+              }
+            },
+            {
+              "unversionedId": "Servicios API/Reubicar",
+              "id": "Servicios API/Reubicar",
+              "title": "Reubicar (/v1/relocate/file)",
+              "description": "Este servicio permite mover la ubicación de un archivo utilizando el id del archivo o su nombre de ruta.",
+              "source": "@site/docs/Servicios API/Reubicar.md",
+              "sourceDirName": "Servicios API",
+              "slug": "/Servicios API/Reubicar",
+              "permalink": "/docs/Servicios API/Reubicar",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Reubicar.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Verificar si existe (/v1/verify/exists/file)",
+                "permalink": "/docs/Servicios API/Existencia"
+              },
+              "next": {
+                "title": "Reemplazar (/v1/replace/file/base64)",
+                "permalink": "/docs/Servicios API/Reemplazar"
+              }
+            },
+            {
+              "unversionedId": "Servicios API/Schemas",
+              "id": "Servicios API/Schemas",
+              "title": "Schemas (Tipos de datos)",
+              "description": "Antes de continuar viendo los servicios es necesario ver los esquemas que se necesitan para los difentes servicios junto con los tipos de datos necesarios para ejecutarlos",
+              "source": "@site/docs/Servicios API/Schemas.md",
+              "sourceDirName": "Servicios API",
+              "slug": "/Servicios API/Schemas",
+              "permalink": "/docs/Servicios API/Schemas",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Schemas.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Reemplazar (/v1/replace/file/base64)",
+                "permalink": "/docs/Servicios API/Reemplazar"
+              },
+              "next": {
+                "title": "Manual Swagger",
+                "permalink": "/docs/Manual swagger"
+              }
+            },
+            {
+              "unversionedId": "Servicios API/verificar servicio",
+              "id": "Servicios API/verificar servicio",
+              "title": "Verificar servicio (GET/)",
+              "description": "Este servicio viene por defecto con la aplicación por lo tanto no es necesario añadir parámetros.",
+              "source": "@site/docs/Servicios API/verificar servicio.md",
+              "sourceDirName": "Servicios API",
+              "slug": "/Servicios API/verificar servicio",
+              "permalink": "/docs/Servicios API/verificar servicio",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/verificar servicio.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pruebas",
+                "permalink": "/docs/Configuración e instalación/pruebas"
+              },
+              "next": {
+                "title": "Escritura (/v1/write)",
+                "permalink": "/docs/Servicios API/Escritura"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Configuración e instalación",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Configuración e instalación/Requisitos"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Configuración e instalación/Instalación"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Configuración e instalación/Definición del entorno"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Configuración e instalación/Ejecución"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Configuración e instalación/pruebas"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Servicios API",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Servicios API/verificar servicio"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Servicios API/Escritura"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Servicios API/Lectura"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Servicios API/Remover"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Servicios API/Existencia"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Servicios API/Reubicar"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Servicios API/Reemplazar"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Servicios API/Schemas"
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "Manual swagger"
+              },
+              {
+                "type": "doc",
+                "id": "Notas_lanzamiento"
+              }
+            ]
+          },
+          "mainDocId": "intro",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "truncated": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "previousPage": null,
+                "nextPage": null,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "previousPage": null,
+                "nextPage": null,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "previousPage": null,
+                "nextPage": null,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hola": {
+          "name": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "previousPage": null,
+                "nextPage": null,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

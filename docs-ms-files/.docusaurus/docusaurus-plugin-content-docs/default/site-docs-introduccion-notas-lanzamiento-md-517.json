@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Introducción/Notas_lanzamiento",
+  "id": "Introducción/Notas_lanzamiento",
+  "title": "Notas de lanzamiento",
+  "description": "Version 1.0.0:",
+  "source": "@site/docs\\Introducción\\Notas_lanzamiento.md",
+  "sourceDirName": "Introducción",
+  "slug": "/Introducción/Notas_lanzamiento",
+  "permalink": "/docs/Introducción/Notas_lanzamiento",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introducción/Notas_lanzamiento.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Objetivos",
+    "permalink": "/docs/Introducción/Objetivos"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/tutorial-basics/create-a-page"
+  }
+}

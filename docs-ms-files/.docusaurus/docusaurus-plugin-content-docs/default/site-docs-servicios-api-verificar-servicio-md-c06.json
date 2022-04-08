@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Servicios API/Verificar servicio",
+  "id": "Servicios API/Verificar servicio",
+  "title": "Verificar servicio (GET/)",
+  "description": "Este servicio viene por defecto con la aplicación por lo tanto no es necesario añadir parámetros.",
+  "source": "@site/docs/Servicios API/Verificar servicio.md",
+  "sourceDirName": "Servicios API",
+  "slug": "/Servicios API/Verificar servicio",
+  "permalink": "/docs/Servicios API/Verificar servicio",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Servicios API/Verificar servicio.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pruebas",
+    "permalink": "/docs/Configuración e instalación/pruebas"
+  },
+  "next": {
+    "title": "Escritura (/v1/write)",
+    "permalink": "/docs/Servicios API/Escritura"
+  }
+}

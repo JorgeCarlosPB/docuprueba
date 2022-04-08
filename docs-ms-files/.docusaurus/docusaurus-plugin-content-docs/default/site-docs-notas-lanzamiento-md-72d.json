@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Notas_lanzamiento",
+  "id": "Notas_lanzamiento",
+  "title": "Notas de lanzamiento",
+  "description": "Version 1.0.0:",
+  "source": "@site/docs/Notas_lanzamiento.md",
+  "sourceDirName": ".",
+  "slug": "/Notas_lanzamiento",
+  "permalink": "/docs/Notas_lanzamiento",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Notas_lanzamiento.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual Swagger",
+    "permalink": "/docs/Manual swagger"
+  }
+}

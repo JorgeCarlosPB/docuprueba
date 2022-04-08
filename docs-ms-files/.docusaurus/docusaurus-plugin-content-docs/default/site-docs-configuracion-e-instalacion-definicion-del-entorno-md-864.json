@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Configuración e instalación/Definición del entorno",
+  "id": "Configuración e instalación/Definición del entorno",
+  "title": "Definición del entorno",
+  "description": "- Sin la correcta configuración del entorno, la aplicación no podrá ejecutarse",
+  "source": "@site/docs\\Configuración e instalación\\Definición del entorno.md",
+  "sourceDirName": "Configuración e instalación",
+  "slug": "/Configuración e instalación/Definición del entorno",
+  "permalink": "/docs/Configuración e instalación/Definición del entorno",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Configuración e instalación/Definición del entorno.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Instalación",
+    "permalink": "/docs/Configuración e instalación/Instalación"
+  },
+  "next": {
+    "title": "Ejecución de la aplicación",
+    "permalink": "/docs/Configuración e instalación/Ejecución"
+  }
+}

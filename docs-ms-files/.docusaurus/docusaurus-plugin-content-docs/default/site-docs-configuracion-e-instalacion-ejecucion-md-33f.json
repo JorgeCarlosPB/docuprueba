@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Configuración e instalación/Ejecución",
+  "id": "Configuración e instalación/Ejecución",
+  "title": "Ejecución de la aplicación",
+  "description": "Para ejecutar la aplicación es necesario que los servidores de mongoDB se encuentren ejecutándose",
+  "source": "@site/docs\\Configuración e instalación\\Ejecución.md",
+  "sourceDirName": "Configuración e instalación",
+  "slug": "/Configuración e instalación/Ejecución",
+  "permalink": "/docs/Configuración e instalación/Ejecución",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Configuración e instalación/Ejecución.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Definición del entorno",
+    "permalink": "/docs/Configuración e instalación/Definición del entorno"
+  },
+  "next": {
+    "title": "Pruebas",
+    "permalink": "/docs/Configuración e instalación/pruebas"
+  }
+}
